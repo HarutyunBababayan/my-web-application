@@ -1,0 +1,21 @@
+.EuropeBreakingNewsBlock {
+    background-color: white;
+    color: black;
+}
+
+.delimiterStyle {
+    background: url("../../../assets/images/bg1.jpg");
+    height: 4px;
+}
+
+.newsBlock1 {
+    margin-left: 40px;
+    width: 800px;
+}
+
+.ContainedImageStyle {
+    width: 270px;
+    height: auto;
+    float: left;
+    margin: 7px 7px 3px 0;
+}

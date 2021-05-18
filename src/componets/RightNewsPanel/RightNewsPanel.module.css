@@ -1,0 +1,12 @@
+.newsBlock {
+    grid-area: news;
+    background: linear-gradient(0deg, rgba(29,209,252,1) 0%, rgba(18,116,191,1) 67%, rgba(52,78,131,1) 100%);
+    padding: 30px;
+}
+
+.friendsContainer {
+    display: grid;
+    height: 400px;
+    background-color: #b7b7b7;
+    border-radius: 10px;
+}

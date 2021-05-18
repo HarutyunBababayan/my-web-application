@@ -1,0 +1,39 @@
+.newContContainer {
+    background-color: white;
+    height: 800px;
+}
+
+.EuropeBreakingNewsBlock {
+    background-color: white;
+    color: black;
+}
+
+.delimiterStyle {
+    background: url("../../../assets/images/bg1.jpg");
+    height: 4px;
+}
+
+.newsBlock1 {
+    margin-left: 40px;
+    width: 800px;
+}
+
+.newsContainer {
+    color: black;
+}
+
+.newsContainer h1, h3 {
+    text-align: center;
+}
+
+.newsContainer p {
+    width: 1000px;
+    margin-left: 20px;
+}
+
+.ContainedImageStyle {
+    width: 270px;
+    height: auto;
+    float: left;
+    margin: 7px 7px 3px 0;
+}

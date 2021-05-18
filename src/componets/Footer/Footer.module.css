@@ -1,0 +1,7 @@
+.footerBlock {
+    grid-area: footer;
+    background-color: #1cd0fb;
+    height: fit-content;
+    border-top: 2px solid #121251;
+
+}

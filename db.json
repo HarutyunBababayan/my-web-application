@@ -1,0 +1,385 @@
+{
+  "users": [
+    {
+      "id": 19,
+      "photoUrl": "https://sun1-26.userapi.com/s/v1/if1/-Fd0rXGSasxiDVyWWkbBR99JHJZT4H22CTCWLDVh-E0fpbnC_O2UryRqbCgQLFx4iPSH0OEr.jpg?size=200x0&quality=96&crop=0,0,959,959&ava=1",
+      "login": "babayan",
+      "password": "1111",
+      "gender": "men",
+      "followed": [
+        6,
+        7,
+        8,
+        9,
+        4,
+        3,
+        5,
+        1
+      ],
+      "age": 23,
+      "fullName": "Harutyun Babayan",
+      "name": "Harutyun",
+      "birtDay": "1998-11-25",
+      "lastName": "Babayan",
+      "status": "Hello ",
+      "location": {
+        "city": "Yerevan",
+        "country": "Armenia"
+      }
+    },
+    {
+      "id": 1,
+      "photoUrl": "https://rizanova.com/assets/uploads/2019/08/Luiza-Rasulova.jpg",
+      "login": "harut",
+      "password": "1998",
+      "gender": "women",
+      "followed": [
+        9,
+        5,
+        3,
+        2
+      ],
+      "age": 23,
+      "fullName": "Luiza B.",
+      "name": "Luiza",
+      "birtDay": "02.13.1979",
+      "lastName": "Grigoryan",
+      "status": "ssa",
+      "location": {
+        "city": "Armenia",
+        "country": "Yerevan"
+      }
+    },
+    {
+      "id": 2,
+      "photoUrl": "Harut.jpg",
+      "login": "davit",
+      "password": "1997",
+      "gender": "men",
+      "followed": [
+        6
+      ],
+      "age": 23,
+      "fullName": "Davit G.",
+      "name": "Davit",
+      "birtDay": "10.27.1996",
+      "lastName": "Harutyunyan",
+      "status": " 'Что не так с нашим проектом?'g",
+      "location": {
+        "city": "Armenia",
+        "country": "Yerevan"
+      }
+    },
+    {
+      "id": 3,
+      "photoUrl": "",
+      "gender": "men",
+      "age": 24,
+      "followed": [
+        2
+      ],
+      "fullName": "Artur.D",
+      "name": "Artur",
+      "birtDay": "05.11.2003",
+      "lastName": "Danibekyan",
+      "status": "Давайте жить дружно.",
+      "location": {
+        "city": "Armenia",
+        "country": "Yerevan"
+      }
+    },
+    {
+      "id": 4,
+      "photoUrl": "",
+      "gender": "men",
+      "age": 24,
+      "followed": [
+        1
+      ],
+      "fullName": "Aleksandr K.",
+      "name": "Aleksandr",
+      "birtDay": "01.29.1988",
+      "lastName": "Kornekchuv",
+      "status": "Пртвет я писатель.",
+      "location": {
+        "city": "Russia",
+        "country": "Moscow"
+      }
+    },
+    {
+      "id": 5,
+      "photoUrl": "",
+      "gender": "women",
+      "followed": [
+        2
+      ],
+      "age": 24,
+      "fullName": "Irina,M",
+      "name": "Irina",
+      "birtDay": "03.19.1999",
+      "lastName": "Xachatryan",
+      "status": "Как говорили великие люди....",
+      "location": {
+        "city": "Russia",
+        "country": "Krasnoyars"
+      }
+    },
+    {
+      "id": 6,
+      "photoUrl": "",
+      "gender": "men",
+      "age": 24,
+      "followed": [
+        1
+      ],
+      "fullName": "Arman.P",
+      "name": "Arman",
+      "birtDay": "07.09.1998",
+      "lastName": "Safaryan",
+      "status": " 'Что не так с нашим проектом?'",
+      "location": {
+        "city": "Russia",
+        "country": "Piter"
+      }
+    },
+    {
+      "id": 7,
+      "photoUrl": "",
+      "gender": "men",
+      "age": 24,
+      "followed": [
+        2
+      ],
+      "fullName": "Tigran G.",
+      "name": "Tigran",
+      "birtDay": "09.12.1992",
+      "lastName": "Muradyan",
+      "status": "Давайте жить дружно.",
+      "location": {
+        "city": "Armenia",
+        "country": "Yerevan"
+      }
+    },
+    {
+      "id": 8,
+      "photoUrl": "",
+      "gender": "men",
+      "followed": [
+        3
+      ],
+      "fullName": "Garik.K",
+      "name": "Garik",
+      "birtDay": "05.22.1995",
+      "lastName": "Kirakosyan",
+      "age": 24,
+      "status": "Пртвет я писатель.",
+      "location": {
+        "city": "Russia",
+        "country": "Moscow"
+      }
+    },
+    {
+      "id": 9,
+      "photoUrl": "",
+      "age": 24,
+      "gender": "women",
+      "followed": [
+        1
+      ],
+      "fullName": "Lianna M.",
+      "name": "Lianna",
+      "birtDay": "04.20.1998",
+      "lastName": "Martirosyan",
+      "status": "Как говорили великие люди....",
+      "location": {
+        "city": "Russia",
+        "country": "Krasnoyars"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": 0,
+      "message": "Hi, how are you?",
+      "likesCount": 22
+    },
+    {
+      "id": 1,
+      "message": "It's my first post",
+      "likesCount": 10
+    },
+    {
+      "id": 2,
+      "message": "Привет как дела?",
+      "likesCount": 2
+    },
+    {
+      "id": 3,
+      "message": "Это мой первый пост",
+      "likesCount": 0
+    },
+    {
+      "id": 4,
+      "message": "fff",
+      "likesCount": 0
+    }
+  ],
+  "postData": [
+    {
+      "name": "Hrig Harut",
+      "id": 19,
+      "post": [
+        {
+          "id": 2,
+          "name": "Liana",
+          "message": "Hi, things are very good",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 3,
+          "name": "Mat",
+          "message": "SAx ass",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 4,
+          "name": "Mat",
+          "message": "Do you working tomorrow",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 5,
+          "name": "SARWAS",
+          "message": "ASA ASA",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "ASffsf",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "WWW",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "1232",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "4444",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "12211",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "444",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "WAS",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "AWQSF",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "fsf",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "Asa",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "As",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "ww",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "As",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "Ssa",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "ASas",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "ffffgfgfgf",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "wff",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "sas",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "was",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "hj\\]\\\nlml",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        },
+        {
+          "id": 1,
+          "name": "Harut",
+          "message": "Asww",
+          "src": "https://coderthemes.com/simple/bs3/dark/assets/images/users/avatar-1.jp"
+        }
+      ]
+    }
+  ]
+}

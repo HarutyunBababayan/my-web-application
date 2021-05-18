@@ -1,0 +1,43 @@
+.dialogs {
+ display: grid;
+     grid-template-columns: 2fr  9fr;
+}
+
+.dialogsItems {
+    padding: 20px;
+}
+.namePadding {
+    padding: 40px;
+}
+
+.messages {
+    padding: 20px;
+}
+
+.vl {
+    border-left: 6px solid #5a5a5a;
+    height: 800px;
+    padding-left: 10px;
+}
+
+.inputStyle {
+    margin: 10px;
+    width: 90%;
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid #898989;
+    outline: none;
+}
+
+.inputBlockStyle {
+    display: flex;
+    justify-content: center;
+    background-color: #bcbcbc;
+    border-radius: 5px;
+}
+.audioButtonStyl {
+    outline: none;
+    background-color: initial;
+    border: groove;
+    border-style: revert
+}

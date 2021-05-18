@@ -1,0 +1,47 @@
+.musicsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content {
+    width: 33%;
+    height: 440px;
+    margin-top: 40px;
+    margin-bottom: 36px;
+    overflow: hidden;
+
+}
+
+.musicPlayerContainer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.textAudioStyle {
+    position: absolute;
+    color: #e7e7e7;
+    width: 230px;
+    background-color: #414ccd;
+    font-size: 15px;
+}
+
+.audioMusicsBlock {
+    display: grid;
+    border: 2px solid #414ccd;
+    width: fit-content;
+    margin: 30px;
+    padding: 3px;
+    background-color: #302e2e;
+}
+
+.imageStyle {
+    width: 230px;
+}
+
+.audioStyle {
+    outline: none;
+    width: 20px;
+    height: 30px;
+}

@@ -1,0 +1,23 @@
+.appWrapper {
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
+    "header header header"
+    "nav contend news"
+    "footer footer footer";
+    min-height: 814px;
+    grid-auto-rows: 60px 3fr;
+    grid-template-columns: 2fr 8fr 2fr;
+    width: 100%;
+}
+
+.appWrapperContend {
+    grid-area: contend;
+    background: radial-gradient(circle, rgba(199, 199, 199, 1) 0%, rgba(213, 213, 213, 1) 67%, rgba(228, 228, 228, 1) 100%);
+    color: #121251;
+}
+
+body, html {
+    background: linear-gradient(
+            0deg, rgba(29, 209, 252, 1) 0%, rgba(18, 116, 191, 1) 67%, rgba(52, 78, 131, 1) 100%) !important;
+}

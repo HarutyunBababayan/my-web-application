@@ -1,0 +1,16 @@
+.navBlock {
+    grid-area: nav;
+    background: linear-gradient(0deg, rgba(29,209,252,1) 0%, rgba(18,116,191,1) 67%, rgba(52,78,131,1) 100%);
+    padding: 30px;
+}
+
+.item a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.item a.active {
+    color: #989595;
+    font-size: 22px;
+    padding-left: 10px;
+}

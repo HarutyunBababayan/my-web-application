@@ -1,0 +1,23 @@
+.headerBlock {
+    grid-area: header;
+    background-color: #344e83;
+}
+.headerBlock img {
+    width: 40px;
+}
+
+.loginBlock {
+    float: right;
+    padding: 5px 17%;
+    display: flex;
+    align-items: center;
+}
+.loginBlock a {
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.panelsSettingBlock h4 {
+    text-align: center;
+}

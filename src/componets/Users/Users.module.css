@@ -1,0 +1,39 @@
+.photoBlock img {
+    width: 80px;
+    border-radius: 50%;
+}
+.pagesContainer {
+    display: flex;
+    justify-content: center;
+}
+
+
+.selectedPage {
+    padding: 0 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.usersPageContainer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #dbdbdb;
+    border-radius: 10px;
+    width: 70%;
+    margin: 70px auto;
+
+}
+
+.usersImageFollowBlock {
+    display: flex;
+    justify-content: start;
+}
+
+.userStatusBlock {
+    display: flex;
+    align-items: center;
+}
+
+.buttonFollowedAndUnfollowed {
+    padding: 22px;
+}
